@@ -82,8 +82,9 @@ jQuery(document).ready(function($) {
 	
 	// parallax background
 		$('#intro').parallax("50%", 0.1);
-		$('#services').parallax("50%", 0.2);
-		$('#bottom').parallax("50%", 0.1);
+		$('#experience').parallax("50%", 0.2);
+		$('#publications').parallax("50%", 0.1);
+		$('#contact').parallax("50%", 0.2);
      
 	//navigation
 	$('.navigation').onePageNav({

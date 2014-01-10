@@ -286,7 +286,8 @@ nav select {
 
 
 section#intro{
-	background-color: black;
+	//background-color: black;
+        background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
 	position:relative;
 	width:100%;
 	height:auto;
@@ -481,33 +482,142 @@ ul.social-profile li a:hover {
 
 /* carousel slider */
 
-/* ================= services ============================ */
-section#services {
-	background: url(../img/bg/bg-1.jpg) 50% 0 no-repeat fixed;
+/* ================= experience ============================ */
+section#publications {
+	background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
 	width:100%;
 	height:auto;
 	margin:0;
-}
-
-#services .headline h3 {
 	color:#fff;
 }
 
-#services .section-intro p {
+section#experience {
+	background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+	width:100%;
+	height:auto;
+	margin:0;
+	color:#fff;
+}
+
+section#contact {
+	background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+	width:100%;
+	height:auto;
+	margin:0;
+	color:#fff;
+}
+
+
+
+#experience .headline h3 {
+	color:#fff;
+}
+
+
+#publications .headline h3 {
+	color:#fff;
+}
+
+#contact .headline h3 {
+	color:#fff;
+}
+
+#experience .section-intro p {
 	color:#f8f8f8;
 }
 
-.service-intro{
+
+#publications .section-intro p {
+	color:#f8f8f8;
+}
+
+#contact .section-intro p {
+	color:#f8f8f8;
+}
+
+.experience-intro{
 	width:100%;
 	margin:30px 0 30px 0;
 	padding-top:20px;
 	text-align:center;
 }
 
-.service-intro h3{
+
+.publications-intro{
+	width:100%;
+	margin:30px 0 30px 0;
+	padding-top:20px;
+	text-align:center;
+}
+
+.contact-intro{
+	width:100%;
+	margin:30px 0 30px 0;
+	padding-top:20px;
+	text-align:center;
+}
+
+
+
+.experience-intro h3{
 	font-size:64px;
 	margin-bottom:0;
 }
+
+
+
+.publications-intro h3{
+	font-size:64px;
+	margin-bottom:0;
+}
+
+.contact-intro h3{
+	font-size:64px;
+	margin-bottom:0;
+}
+
+
+
+
+/*========== works ==================*/
+
+ul.filter {
+	list-style:none;
+	margin-left:0;
+	margin-bottom:20px;
+}
+
+ul.filter li {
+	float:left;
+	margin-right:10px;
+}
+
+ul.filter li.active a{
+	text-shadow:none;
+	color:#fff;
+	background: #1b1b1b;
+}
+
+.portfolio-area{
+	float: left;
+	width:100%;
+	margin:0;
+	padding:0;
+	margin-top:20px;
+}
+
+.portfolio-area li{
+	float: left;
+	list-style:none;
+	margin:0 0 30px 0;
+	padding:0;
+}
+
+.portfolio-area li h4{
+	margin-top:10px;
+}
+
+
 
 /*========== works ==================*/
 
