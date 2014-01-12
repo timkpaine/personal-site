@@ -84,7 +84,7 @@ jQuery(document).ready(function($) {
 		$('#intro').parallax("50%", 0.1);
 		$('#experience').parallax("50%", 0.2);
 		$('#publications').parallax("50%", 0.1);
-		$('#contact').parallax("50%", 0.2);
+		//$('#contact').parallax("50%", 0.2);
      
 	//navigation
 	$('.navigation').onePageNav({
