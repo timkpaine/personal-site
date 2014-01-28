@@ -1,0 +1,39 @@
+Computer Science
+-Advanced Programming
+-Computer Networks
+-Databases
+-Algorithms
+-Programming Languages and Translators
+-Operating Systems
+
+Computer Engineering
+-Computer Architecture
+-Embedded Systems
+
+Mathematics
+-Honors Mathematics
+-ODE
+-PDE
+-Modern Analysis
+-Modern Algebra
+
+
+Electrical Engineering
+-Circuit Analysis
+-Signal Analysis
+
+Physics
+-Mechanics
+-E+M
+-Waves and Optics
+
+Statistics/Operations Research
+-Probability
+-Stochastic Models
+-Statistical Machine Learning
+
+Other
+-Business Japanese (4th Year)
+-Principles of Economics
+
+
