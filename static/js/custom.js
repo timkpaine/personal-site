@@ -83,6 +83,7 @@ jQuery(document).ready(function($) {
 	// parallax background
 		$('#intro').parallax("50%", 0.1);
 		$('#experience').parallax("50%", 0.2);
+		$('#clubs').parallax("50%", 0.2);
 		$('#publications').parallax("50%", 0.1);
 		//$('#contact').parallax("50%", 0.2);
      
