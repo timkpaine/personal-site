@@ -94,7 +94,7 @@ blockquote {
 }
 
 .container{
-	padding: 0 20px 0 20px;
+	padding: 0 10px 0 10px;
 }
 
 .row{
@@ -122,7 +122,7 @@ blockquote {
 	font-weight:700;
 	text-align:center;
 	text-shadow: 0 1px 0 #ffffff;	
-	border-bottom:3px double #333;
+	border-bottom:3px solid #333;
 	width:auto;
 	display:inline;
 }
@@ -130,7 +130,7 @@ blockquote {
 section.dark .heading h3{
 	color:#fff;
 	text-shadow: 0 1px 0 #3a3a3a;	
-	border-bottom:3px double #eee;
+	border-bottom:3px solid #eee;
 	width:auto;
 	display:inline;
 	
@@ -186,8 +186,8 @@ header{
 }
 
 header .logo {
+	margin-top:15px;
 	float:left;
-	margin:30px 0 0;
 }
 
 /* --- menu --- */
@@ -198,7 +198,7 @@ header .logo {
 }
 
 .navbar {
-	padding:0 0 20px;
+	padding:0 0 0px;
 	margin:0;
   color: #fff;
 }
@@ -308,12 +308,10 @@ nav select {
 
 
 section#intro{
-	//background-color: black;
-        background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
 	position:relative;
 	width:100%;
 	height:auto;
-	margin:0;
 	padding:240px 0 120px;
 }
 
@@ -507,7 +505,8 @@ ul.social-profile li a:hover {
 
 /* ================= experience ============================ */
 section#publications {
-	background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+	position:relative;
 	width:100%;
 	height:auto;
 	margin:0;
@@ -515,7 +514,8 @@ section#publications {
 }
 
 section#experience {
-	background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+	position:relative;
 	width:100%;
 	height:auto;
 	margin:0;
@@ -523,17 +523,17 @@ section#experience {
 }
 
 section#clubs{
-	background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+background: url(../img/bg-1.jpg) 50% 0 no-repeat fixed;
+	position:relative;
 	width:100%;
 	height:auto;
 	margin:0;
 	color:#fff;
 }
 section#contact {
-	background: url(../img/bg-1.jpg) 50%  no-repeat ;
+background: url(../img/bg-1.jpg) 50%;
 	width:100%;
 	height:auto;
-	margin:0;
 	color:#fff;
 }
 
@@ -747,7 +747,20 @@ ul.filter li.active a{
 }
 .da-thumbs li  article {
 	position: absolute;
-	background-image:url(../img/da-hover.png);
+-webkit-background-clip: border-box;
+-webkit-background-origin: padding-box;
+-webkit-background-size: cover;
+-webkit-font-smoothing: antialiased;
+background-attachment: fixed;
+background-clip: border-box;
+background-color: rgba(0, 0, 0, 0);
+background-image: url(../img/da-hover.png);
+	position:relative;
+	width:100%;
+	height:auto;
+	margin:0;
+	color:#000;	
+	
 	background-repeat:repeat;
 	text-shadow:none;
 	padding-top:20%;
@@ -973,7 +986,7 @@ footer .verybottom {
 	position: fixed;
 	background:#2a2a2a;
 	width: 100%;
-	padding-right:20px;
+	padding-right:0px;
 	}
 	
 	.fixed {
@@ -1005,11 +1018,9 @@ footer .verybottom {
       display: block;
 	  width:50%;
 	  float:right;
-	  margin-bottom:20px;
 	  color:#111;
-	  margin-top:20px;
-	  margin-right:40px;
-	  line-height:30px;
+	  margin-right:50px;
+	  line-height:5px;
   -webkit-border-radius: 4px;
      -moz-border-radius: 4px;
           border-radius: 4px;
