@@ -5,10 +5,15 @@ Computer Science
 -Algorithms
 -Programming Languages and Translators
 -Operating Systems
+-Big Data Analytics
+-Cloud Computing and Big Data
 
 Computer Engineering
 -Computer Architecture
+-Advanced Logic Design
 -Embedded Systems
+-System on Chip
+-Computer Hardware Design
 
 Mathematics
 -Honors Mathematics
@@ -16,7 +21,7 @@ Mathematics
 -PDE
 -Modern Analysis
 -Modern Algebra
-
+-Topology
 
 Electrical Engineering
 -Circuit Analysis
@@ -35,5 +40,5 @@ Statistics/Operations Research
 Other
 -Business Japanese (4th Year)
 -Principles of Economics
-
-
+-Quantitative Methods in Investment Management
+-Design and Agile Project Management Engineering Lab
