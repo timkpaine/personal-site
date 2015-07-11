@@ -71,6 +71,18 @@ hr {
 	margin:0 auto;
 }
 
+
+
+
+.desc {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    color: #888;
+}
+
+
+
+
 .header{
 	padding: 5px 5px 5px 5px;
 	margin: 0 auto;
@@ -86,31 +98,7 @@ hr {
 }
 
 
-.education{
-	padding: 5px 5px 5px 5px;
-	margin: 0 auto;
-	width:60%;
-}
-
-.experience{
-	padding: 5px 5px 5px 5px;
-	margin: 0 auto;
-	width:60%;
-}
-
-.skills{
-	padding: 5px 5px 5px 5px;
-	margin: 0 auto;
-	width:60%;
-}
-
-.projects{
-	padding: 5px 5px 5px 5px;
-	margin: 0 auto;
-	width:60%;
-}
-
-.publications{
+.section{
 	padding: 5px 5px 5px 5px;
 	margin: 0 auto;
 	width:60%;
@@ -131,4 +119,7 @@ hr {
 }
 
 
-
+a {
+    color: inherit;    
+    text-decoration: none;
+}
