@@ -17,38 +17,38 @@ $("#clubs div.hide ").hide();
 
 
 
-$(".section#education").click(function(){
+$("h2#education").click(function(){
     $("#education div.hide ").toggle();
 });
-$(".section#experience").click(function(){
+$("h2#experience").click(function(){
     $("#experience div.hide ").toggle();
 });
 
-$(".section#publications").click(function(){
+$("h2#publications").click(function(){
     $("#publications div.hide ").toggle();
 });
 
-$(".section#skills").click(function(){
+$("h2#skills").click(function(){
     $("#skills div.hide ").toggle();
 });
 
-$(".section#courses").click(function(){
+$("h2#courses").click(function(){
     $("#courses div.hide ").toggle();
 });
 
-$(".section#projects").click(function(){
+$("h2#projects").click(function(){
     $("#projects div.hide ").toggle();
 });
 
-$(".section#awards").click(function(){
+$("h2#awards").click(function(){
     $("#awards div.hide ").toggle();
 });
 
-$(".section#precollege").click(function(){
+$("h2#precollege").click(function(){
     $("#precollege div.hide ").toggle();
 });
 
-$(".section#clubs").click(function(){
+$("h2#clubs").click(function(){
     $("#clubs div.hide ").toggle();
 });
 
