@@ -68,4 +68,5 @@ Automatically commit notebooks on save
 ## [Kafka-ui](http://kafka-ui.paine.nyc)
 ## [Kafka-manager](http://kafka-manager.paine.nyc)
 
-# [Resume](./resume.html)
+# Resume
+## [Link](./resume.html)
