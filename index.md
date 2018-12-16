@@ -2,10 +2,8 @@
 layout: default
 ---
 # Projects
-
 ## [Paperboy]("https://paperboy-jp.herokuapp.com")
 Automated notebook workflows
-
 
 ## [Lan Kwai Fund](https://www.lankwai.fun)
 Cryptocurrency fund
@@ -13,14 +11,11 @@ Cryptocurrency fund
 ## [Lost&Found](https://loststuff.herokuapp.com)
 Find things you've lost
 
-
 ## [Realized PnL](https://live-pnl.paine.nyc)
 Streaming PnL calcs
 
-
 ## [HedgeMe](https://hedgeme.herokuapp.com)
 Towards open financial analytics
-
 
 
 # Packages 
@@ -73,5 +68,4 @@ Automatically commit notebooks on save
 ## [Kafka-ui](http://kafka-ui.paine.nyc)
 ## [Kafka-manager](http://kafka-manager.paine.nyc)
 
-# Personal Sites
-## [Tim Paine](http://tim.paine.nyc)
+# [Resume](./resume.html)
