@@ -56,17 +56,9 @@ Quicklinks for JupyterLab
 ## [jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion)
 Automatically commit notebooks on save
 
-# Services
-## [Jupyter](http://jupyter.paine.nyc)
-## [Jenkins](http://jenkins.paine.nyc)
-## [Airflow](http://airflow.paine.nyc)
-## [NetData](http://monitor.paine.nyc)
-## [Cockpit](http://cockpit.paine.nyc)
-## [Zookeeper](http://zookeeper.paine.nyc)
-## [Kafka](http://kafka.paine.nyc)
-## [Kafka-rest](http://kafka-rest.paine.nyc)
-## [Kafka-ui](http://kafka-ui.paine.nyc)
-## [Kafka-manager](http://kafka-manager.paine.nyc)
-
 # Resume
 ## [Link](./resume.html)
+
+# Services
+## [Link](./services.html)
+
