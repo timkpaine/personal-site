@@ -25,6 +25,8 @@ Automated notebook workflows
 ## [Lantern](https://github.com/timkpaine/lantern)
 Toolkit for data science
 
+## [Tributary](https://github.com/timkpaine/tributary)
+Python data streams
 
 ## [Algo-coin](https://github.com/timkpaine/algo-coin)
 Algorithmic trading library for crytocurrencies
