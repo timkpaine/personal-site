@@ -2,10 +2,10 @@
 layout: default
 ---
 # Projects
-## [Paperboy]("https://paperboy-jp.herokuapp.com")
+## [Paperboy](https://paperboy-jp.herokuapp.com)
 Automated notebook workflows
 
-## [Lan Kwai Fund](https://www.lankwai.fun)
+## [Lan Kwai Fund](https://lankwaifund.herokuapp.com)
 Cryptocurrency fund
 
 ## [Lost&Found](https://loststuff.herokuapp.com)
