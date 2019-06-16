@@ -31,6 +31,9 @@ Python data streams
 ## [Algo-coin](https://github.com/timkpaine/algo-coin)
 Algorithmic trading library for crytocurrencies
 
+## [aat](https://github.com/timkpaine/aat)
+Algorithmic trading engine
+
 ## [Perspective-python](https://github.com/timkpaine/perspective-python)
 Python bindings and interface to [Perspective](https://github.com/jpmorganchase/perspective)
 
@@ -51,6 +54,9 @@ Template notebook extension for JupyterLab
 
 ## [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands)
 Adding arbitrary commands to JupyterLab command palette
+
+## [jupyterlab_celltests](https://github.com/timkpaine/jupyterlab_celltests)
+Cell-by-cell testing and linting for jupyter.
 
 ## [jupyterlab_iframe](https://github.com/timkpaine/jupyterlab_iframe)
 Quicklinks for JupyterLab
