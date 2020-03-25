@@ -1,26 +1,17 @@
 ---
 layout: default
 ---
----
-layout: default
----
-<!-- # Projects
+# Projects
+## FashionLab
+Generative adversairal networks trained on fashion datasets
+[fashionlab.ai](https://fashionlab.ai/#/)
 
-## [Paperboy]("https://paperboy-jp.herokuapp.com")
-Automated notebook workflows
+## Barrel Cocktail Co.
+Hand-crafted, small-batch, barrel-aged cocktails
+[barrelcocktail.co](https://barrelcocktail.co/#/)
 
-## [Lan Kwai Fund](https://www.lankwai.fund)
-Cryptocurrency fund
 
-## [Lost&Found](https://loststuff.herokuapp.com)
-Find things you've lost
-
-## [Realized PnL](https://live-pnl.paine.nyc)
-Streaming PnL calcs
-
-## [HedgeMe](https://hedgeme.herokuapp.com)
-Towards open financial analytics -->
-
+# Packages
 ## Data Analytics
 ### [Perspective](https://github.com/finos/perspective)
 Streaming pivot visualization via WebAssembly
