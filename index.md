@@ -27,13 +27,13 @@ About me or my work
 # Teaching
 I teach in the Computer Science department at Columbia University. Topics include introductory to intermediate core CS fundamentals in C, C++, and Python, as well as topics courses in computer hardware fundamentals and open source development methodologies. Specific courses include:
 
-COMS4995 Open Source Development
-COMS3136 Essential Data Structures in C and C++
-CSEE 3827 Fundamentals of Computer Systems
-COMS3101 Programming Languages (Python)
-COMS3101 Programming Languages (C++)
-ENGI1006 Introduction to Computing for Engineers and Applied Scientists (Python)
-COMS1005 Introduction to Computer Science and Programming in Matlab
+- COMS4995 Open Source Development
+- COMS3136 Essential Data Structures in C and C++
+- CSEE 3827 Fundamentals of Computer Systems
+- COMS3101 Programming Languages (Python)
+- COMS3101 Programming Languages (C++)
+- ENGI1006 Introduction to Computing for Engineers and Applied Scientists (Python)
+- COMS1005 Introduction to Computer Science and Programming in Matlab
 
 ---
 
