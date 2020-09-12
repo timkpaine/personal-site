@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>JupyterCon 2020 - Production Notebooks</title>
+		<link rel="stylesheet" href="_assets/dist/reveal.css">
+		<link rel="stylesheet" href="_assets/dist/theme/white.css" id="theme">
+        <link rel="stylesheet" href="_assets/plugin/highlight/monokai.css">
+        <style>
+            .reveal .smallfont {
+                font-size: 18px;
+            }
+        </style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+                <section data-markdown>
+                    <script type="text/template">
+                        <!-- .slide: data-background="#000000" -->
+                        # Production Notebooks
+
+                        Tim Paine - J.P. Morgan
+
+                        <br>
+                        <div style="display: flex; flex-direction: row; justify-content:center;align-items:center;">
+                            <img src="_assets/img/gh.png" width=100></img>
+                            <span>@timkpaine</span>
+                        </div>
+                    </script>
+                </section>
+
+                <section>
+                    <section data-markdown data-separator="---">
+                        <script type="text/template">
+                            ## Background
+
+                            ---
+
+                            <img src="_assets/img/jpm.png" width=400></img>
+
+                            One of the world's biggest banks <!-- .element: class="fragment" data-fragment-index="1" -->
+
+                            <span>>40k technology employees</span> <!-- .element: class="fragment" data-fragment-index="2" -->
+
+                            ~$10B annual technology investment <!-- .element: class="fragment" data-fragment-index="3" -->
+
+                            ---
+
+                            ## Athena
+
+                            Python-based platform <!-- .element: class="fragment" data-fragment-index="1" -->
+
+                            ~2000 developers <!-- .element: class="fragment" data-fragment-index="2" -->
+
+                            ~40mm loc <!-- .element: class="fragment" data-fragment-index="3" -->
+
+                            1000+ OSS packages <!-- .element: class="fragment" data-fragment-index="4" -->
+
+                            <span>Hundreds to Thousands of production code releases <strong>per day</strong></span> <!-- .element: class="fragment" data-fragment-index="5" -->
+
+                            <span><em>Managing python at scale without breaking the bank</em><br>M. Tselman - PyData 2017 (<a href="https://www.slideshare.net/PyData/managing-python-at-scale-without-breaking-the-bank">Slides</a>)</span> <!-- .element: class="fragment" data-fragment-index="6" -->
+
+                            ---
+
+                            <img src="_assets/img/ar.png" width=500></img>
+
+                            Small, global team <!-- .element: class="fragment" data-fragment-index="1" -->
+
+                            Focused on Analytics, AI/ML, and emerging technology <!-- .element: class="fragment" data-fragment-index="2" -->
+
+                            ---
+
+
+                            Hosted Jupyter platform serves thousands of daily users globally, mostly Business users and Quantitative Researchers <!-- .element: class="fragment" data-fragment-index="1" -->
+
+                            <img src="_assets/img/jp_users.png" width=1000></img> <!-- .element: class="fragment" data-fragment-index="2" -->
+                        </script>
+                    </section>
+                </section>
+                <section>
+                    <section data-markdown data-separator="---">
+                        <script type="text/template">
+                            <img src="_assets/img/jupyter.png" width=300></img>
+
+                            <span>We run Jupyter <strong>in production</strong> with three target deployments</span> <!-- .element: class="fragment" data-fragment-index="1" -->
+
+                            - JupyterLab <!-- .element: class="fragment" data-fragment-index="2" -->
+                            - Static reports using NBConvert and Papermill <!-- .element: class="fragment" data-fragment-index="3" -->
+                            - Live applications using Voilà and Panel <!-- .element: class="fragment" data-fragment-index="4" -->
+                            
+
+                        </script>
+                    </section>
+                </section>
+
+                <section>
+                    <section data-markdown data-separator="---">
+                        <script type="text/template">
+
+                        </script>
+                    </section>
+                </section>
+
+
+
+
+
+
+
+            </div>
+		</div>
+		<script src="_assets/dist/reveal.js"></script>
+        <script src="_assets/plugin/markdown/markdown.js"></script>
+        <script src="_assets/plugin/highlight/highlight.js"></script>
+        <script src="_assets/plugin/notes/notes.js"></script>
+		<script>
+			Reveal.initialize({
+				center: true,
+				controls: true,
+				history: true,
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+				progress: true,
+                slideNumber: true
+			});
+        </script>
+        
+	</body>
+</html>
