@@ -138,8 +138,3 @@ Toolkit for data science
 
 ### [Crowdsource](https://github.com/timkpaine/crowdsource)
 A streaming competition engine
-
-# Resume
-## [Link](./resume.html)
-
-
