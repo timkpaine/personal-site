@@ -51,6 +51,9 @@ Hand-crafted, small-batch, barrel-aged cocktails
 ---
 
 # Packages
+My open source portfolio 
+
+
 ## Data Analytics
 ### [Perspective](https://github.com/finos/perspective)
 Streaming pivot visualization via WebAssembly
