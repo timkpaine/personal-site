@@ -3,11 +3,11 @@ layout: default
 ---
 # Personal
 ## Links
-### [GitHub](https://github.com/timkpaine)
-### [Teaching](https://www.cs.columbia.edu/~paine/)
-### [Twitter](https://twitter.com/timkpaine)
-### [LinkedIn](https://www.linkedin.com/in/timkpaine/)
-### [Resume](./resume.html)
+- [GitHub](https://github.com/timkpaine)
+- [Teaching](https://www.cs.columbia.edu/~paine/)
+- [Twitter](https://twitter.com/timkpaine)
+- [LinkedIn](https://www.linkedin.com/in/timkpaine/)
+- [Resume](./resume.html)
 
 ## Media
 About me or my work
