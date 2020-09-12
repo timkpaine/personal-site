@@ -38,6 +38,8 @@ I teach in the Computer Science department at Columbia University. Topics includ
 ---
 
 # Projects
+Some of my personal/free time projects
+
 ## FashionLab
 Generative adversairal networks trained on fashion datasets
 [fashionlab.ai](https://fashionlab.ai/#/)
@@ -46,6 +48,7 @@ Generative adversairal networks trained on fashion datasets
 Hand-crafted, small-batch, barrel-aged cocktails
 [barrelcocktail.co](https://barrelcocktail.co/#/)
 
+---
 
 # Packages
 ## Data Analytics
