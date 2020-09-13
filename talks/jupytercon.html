@@ -29,7 +29,17 @@
                         </div>
                     </script>
                 </section>
+                <section>
+                    <section data-markdown data-separator="---">
+                        <script type="text/template">
+                            ## Talk Overview
+                            - Background on J.P. Morgan/Athena and our Jupyter deployment
+                            - How we use Jupyter
+                            - Infrastructure, Software Lifecycle, and Library support for safe notebook use in production
 
+                        </script>
+                    </section>
+                </section>
                 <section>
                     <section data-markdown data-separator="---">
                         <script type="text/template">
@@ -81,16 +91,53 @@
                 <section>
                     <section data-markdown data-separator="---">
                         <script type="text/template">
+                            ## How we use Jupyter
+
+                            --- 
+
                             <img src="assets/img/jupyter.png" width=300></img>
 
                             <span>We run Jupyter <strong>in production</strong> with three target deployments</span> <!-- .element: class="fragment" data-fragment-index="1" -->
 
-                            - JupyterLab <!-- .element: class="fragment" data-fragment-index="2" -->
-                            - Static reports using NBConvert and Papermill <!-- .element: class="fragment" data-fragment-index="3" -->
-                            - Live applications using Voilà and Panel <!-- .element: class="fragment" data-fragment-index="4" -->
+                            - JupyterLab (1 deployment for ~1.5k users, libraries available to run instances locally) <!-- .element: class="fragment" data-fragment-index="2" -->
+                            - Static reports using NBConvert and Papermill (hundreds scheduled daily) <!-- .element: class="fragment" data-fragment-index="3" -->
+                            - Live applications using Voilà and Panel (~50 in production, >100 in development)  <!-- .element: class="fragment" data-fragment-index="4" -->
                             
                             ---
 
+                            ## Infrastructure support
+
+                            - Scheduler suitable for both batch and HA jobs (called "Bob")
+                            - Distributed, replicating object store (called "Hydra")
+                                - Used for both data and code (as a monorepo)
+                                - Allows you to look at "slices", union them together backed by a shared "production" layer
+                                - More details in the previously referenced PyData talk
+
+                            ---
+
+                            What does "production" mean in the context of a Jupyter Developer?
+
+                            - Share functionality amongst a larger group, or with non-technical users (e.g. "can I hide the code and just see the results")
+                            - Run the notebook in some automated fashion
+                            - Stable, testable, deployable, extensible
+
+                            --- 
+                            
+                            Avoid notebook pitfalls and antipatterns (e.g. try to avoid "I Don't Like Notebooks" problems)
+
+                            Notebooks are a scratchpad for underlying libraries
+
+                            Useful for quickly experimenting or iterating
+
+                            Used to present text and data together
+
+                            Push library development down to a proper IDE
+
+                            --- 
+
+                            Linearly-Executed Notebooks
+
+                            Notebooks execute top-to-bottom for both reports and apps
 
 
                         </script>
