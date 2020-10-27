@@ -24,14 +24,21 @@ About me or my work
 
 ---
 
+# Experience
+My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data, analytics, and machine learning. 
+
+- IEX
+- J.P. Morgan
+- MayStreet
+
+
 # Teaching
 I teach in the Computer Science department at Columbia University. Topics include introductory to intermediate core CS fundamentals in C, C++, and Python, as well as topics courses in computer hardware fundamentals and open source development methodologies. Specific courses include:
 
 - COMS4995 Open Source Development
 - COMS3136 Essential Data Structures in C and C++
 - CSEE 3827 Fundamentals of Computer Systems
-- COMS3101 Programming Languages (Python)
-- COMS3101 Programming Languages (C++)
+- COMS3101 Programming Languages (Python, C++)
 - ENGI1006 Introduction to Computing for Engineers and Applied Scientists (Python)
 - COMS1005 Introduction to Computer Science and Programming in Matlab
 
@@ -53,7 +60,6 @@ Hand-crafted, small-batch, barrel-aged cocktails
 # Packages
 My open source portfolio 
 
-
 ## Data Analytics
 ### [Perspective](https://github.com/finos/perspective)
 Streaming pivot visualization via WebAssembly
@@ -68,6 +74,9 @@ A filesystem-like contents manager for multiple backends in Jupyter
 
 ### [NBCelltests](https://github.com/jpmorganchase/nbcelltests)
 Cell-by-cell testing for production Jupyter notebooks in JupyterLab
+
+### [ipyregulartabe](https://github.com/jpmorganchase/ipyregulartable)
+Notebook extension for high performance grids
 
 ### [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates)
 Template notebook extension for JupyterLab
@@ -118,23 +127,3 @@ Python interface to TD Ameritrade financial data
 
 ### [temporal-cache](https://github.com/timkpaine/temporal-cache)
 Time-based cache invalidation
-
-### [Algo-coin](https://github.com/AsyncAlgoTrading/algo-coin)
-Algorithmic trading library for crytocurrencies
-
-
-
-## Misc.
-### [tornado-sqlalchemy-login](https://github.com/timkpaine/tornado-sqlalchemy-login)
-SQLAlchemy helpers doing login/logout/register in Tornado
-
-### [tornado-proxy-handlers](https://github.com/timkpaine/tornado-proxy-handlers)
-Tornado proxy handlers for HTTP requests and web sockets
-
-
-## Archived Projects
-### [Lantern](https://github.com/timkpaine/lantern)
-Toolkit for data science
-
-### [Crowdsource](https://github.com/timkpaine/crowdsource)
-A streaming competition engine
