@@ -52,7 +52,11 @@ Generative adversarial networks trained on fashion datasets
 Hand-crafted, small-batch, barrel-aged cocktails
 [barrelcocktail.co](https://barrelcocktail.co/#/)
 
-## Packages
+## Lan Kwai Fund
+Systematic Hedge Fund (Closed to outside investment)
+[lankwai.fund](https://lankwai.fund/#/)
+
+# Packages
 My open source portfolio 
 
 ## Data Analytics
