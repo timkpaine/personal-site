@@ -24,9 +24,9 @@ About me or my work
 # Experience
 My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data, analytics, and machine learning. 
 
-- IEX, Head of Software Engineeering - IEX Cloud
-- J.P. Morgan, VP Software Engineer
-- MayStreet, Software Engineer
+- [IEX](https://iextrading.com), Head of Software Engineeering - [IEX Cloud](https://iexcloud.io)
+- [J.P. Morgan](https://www.jpmorgan.com/global), VP Software Engineer, Athena Research
+- [MayStreet](https://maystreet.com), Software Engineer
 
 
 # Teaching
