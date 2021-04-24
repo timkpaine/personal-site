@@ -28,9 +28,14 @@ My background is building high performance, full stack applications for front of
 - [J.P. Morgan](https://www.jpmorgan.com/global), VP Software Engineer, Athena Research
 - [MayStreet](https://maystreet.com), Software Engineer
 
+# Education
+
+- B.A. Computer Science and Mathematics - 2014 - *Columbia University* 
+- B.S. Computer Engineering - 2015 - *Columbia University*
+- M.S. Computer Engineering - 2015 - *Columbia University*
 
 # Teaching
-I teach in the Computer Science department at Columbia University. Topics include introductory/intermediate core computer science fundamentals in C, C++, and Python, as well as topics courses in computer hardware fundamentals and open source development methodologies. Specific courses include:
+I have taught in the Computer Science department at Columbia University since 2015. Topics include introductory/intermediate core computer science fundamentals in C, C++, and Python, as well as topics courses in computer hardware fundamentals and open source development methodologies. Specific courses include:
 
 - COMS4995 Open Source Development
 - COMS3136 Essential Data Structures in C and C++
