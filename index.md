@@ -19,6 +19,8 @@ About me or my work
 
 *Production Notebooks*, **JupyterCon 2020**
 
+---
+
 # Experience
 My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data, analytics, and machine learning. 
 
@@ -53,13 +55,11 @@ Streaming pivot visualization via WebAssembly
 ### [Tributary](https://github.com/timkpaine/tributary)
 Python data streams
 
-### FashionLab
+### [FashionLab](https://fashionlab.ai/#/)
 Generative adversarial networks trained on fashion datasets
-[fashionlab.ai](https://fashionlab.ai/#/)
 
-### Barrel Cocktail Co.
+### [Barrel Cocktail Co.](https://barrelcocktail.co/#/)
 Hand-crafted, small-batch, barrel-aged cocktails
-[barrelcocktail.co](https://barrelcocktail.co/#/)
 
 ### [Jupyter-FS](https://github.com/jpmorganchase/jupyter-fs)
 A filesystem-like contents manager for multiple backends in Jupyter
