@@ -47,34 +47,10 @@ I have taught in the Computer Science department at Columbia University since 20
 ---
 
 # Projects
-Some of my personal/free time/open source projects
-
-### [Perspective](https://github.com/finos/perspective)
-Streaming pivot visualization via WebAssembly
-
-### [Tributary](https://github.com/timkpaine/tributary)
-Python data streams
+My actively developed projects can be found on my [GitHub](https://github.com/timkpaine).
 
 ### [FashionLab](https://fashionlab.ai/#/)
 Generative adversarial networks trained on fashion datasets
 
 ### [Barrel Cocktail Co.](https://barrelcocktail.co/#/)
 Hand-crafted, small-batch, barrel-aged cocktails
-
-### [Jupyter-FS](https://github.com/jpmorganchase/jupyter-fs)
-A filesystem-like contents manager for multiple backends in Jupyter
-
-### [NBCelltests](https://github.com/jpmorganchase/nbcelltests)
-Cell-by-cell testing for production Jupyter notebooks in JupyterLab
-
-### [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable)
-Notebook extension for high performance grids
-
-### [ipydagred3](https://github.com/timkpaine/ipydagred3)
-ipywidgets wrapper for dagre-d3
-
-### [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates)
-Template notebook extension for JupyterLab
-
-### [aat](https://github.com/AsyncAlgoTrading/aat)
-Async Algorithmic Trading Engine

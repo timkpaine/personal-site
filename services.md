@@ -1,25 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
-  <title>Services</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
-  <meta name="author" content="">
-<!-- styles -->
-  <link href="./static/css/style.css" rel="stylesheet">
-<script src="./static/js/jquery.min.js"></script>
-<script src="./static/js/new.js"></script>
-  <link rel="shortcut icon" href="./static/img/logo_blk.png">
-  <style type="text/css"></style>
-</head>
-<body>
-
-<div class="header">
-    <a href='./rsc/TPCV.pdf'><h1>Tim K Paine</h1></a>
-</div>
-
+---
+layout: default
+---
 
 <div class="section" id="experience">
     <h2 id="experience">Services</h2>
@@ -38,6 +19,3 @@
         <a href="http://kafka-manager.paine.nyc"><p>Kafka-manager</p></a>
     </div>
 </div>
-
-</body>
-</html>
