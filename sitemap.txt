@@ -1,4 +1,0 @@
-http://tim.paine.nyc
-http://tim.paine.nyc/tutoring.html
-http://tim.paine.nyc/resume.html
-http://tim.paine.nyc/talks/jupytercon.html

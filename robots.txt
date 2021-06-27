@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://tim.paine.nyc/sitemap.txt
+Sitemap: http://tim.paine.nyc/sitemap.xml
