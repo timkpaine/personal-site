@@ -9,6 +9,17 @@ layout: default
 ![GitHub followers](https://img.shields.io/github/followers/timkpaine?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/timkpaine?style=social)
 
+# Experience
+My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data, analytics, and machine learning. 
+
+| | | |
+|:--:|:--:|:--:|
+| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/iex.png" alt="IEX"></img> | [IEX](https://iextrading.com) | Head of Software Engineeering - [IEX Cloud](https://iexcloud.io) |
+| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/jpmorgan.png" alt="J.P. Morgan"></img> | [J.P. Morgan](https://www.jpmorgan.com/global) | VP Software Engineer, Athena Research |
+| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/maystreet.png" alt="MayStreet"></img> | [MayStreet](https://maystreet.com) |  Software Engineer |
+
+---
+
 # Media
 About me or my work
 
@@ -22,16 +33,6 @@ About me or my work
 
 
 ---
-
-# Experience
-My background is building high performance, full stack applications for front office business users and developers, focusing on streaming data, analytics, and machine learning. 
-
-| | | |
-|:--:|:--:|:--:|
-| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/iex.png" alt="IEX"></img> | [IEX](https://iextrading.com) | Head of Software Engineeering - [IEX Cloud](https://iexcloud.io) |
-| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/jpmorgan.png" alt="J.P. Morgan"></img> | [J.P. Morgan](https://www.jpmorgan.com/global) | VP Software Engineer, Athena Research |
-| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/maystreet.png" alt="MayStreet"></img> | [MayStreet](https://maystreet.com) |  Software Engineer |
-
 
 ### Education
 
