@@ -20,7 +20,6 @@ My background is building high performance, full stack applications for front of
 | <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/jpmorgan.png" alt="J.P. Morgan"> | [J.P. Morgan](https://www.jpmorgan.com/global) | VP Software Engineer, Athena Research |
 | <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/maystreet.png" alt="MayStreet"> | [MayStreet](https://maystreet.com) |  Software Engineer |
 
----
 
 # Media
 About me or my work
@@ -33,8 +32,6 @@ About me or my work
 |*JPMorgan's requirement for new staff: coding lessons* | **Financial Times 2018** | [link](https://www.ft.com/content/4c17d6ce-c8b2-11e8-ba8f-ee390057b8c9) | |
 | *JPMorgan's Python training guide for analysts and traders* | **efinancialcareers** | [link](https://news.efinancialcareers.com/us-en/3004043/jpmorgan-python-training-analysts-and-traders) | | 
 
-
----
 
 ### Education
 
