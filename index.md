@@ -51,8 +51,6 @@ I have taught in the Computer Science department at Columbia University since 20
 | ENGI1006 | Introduction to Computing for Engineers and Applied Scientists (Python) |
 | COMS1005 | Introduction to Computer Science and Programming in Matlab |
 
----
-
 # Projects
 My actively developed projects can be found on my [GitHub](https://github.com/timkpaine).
 
