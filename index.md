@@ -6,6 +6,8 @@ layout: default
 [![](https://img.shields.io/badge/Website-red)](https://tim.paine.nyc/)
 [![](https://img.shields.io/badge/Teaching-green)](https://www.cs.columbia.edu/~paine/)
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/timkpaine/)
+
+
 ![GitHub followers](https://img.shields.io/github/followers/timkpaine?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/timkpaine?style=social)
 
