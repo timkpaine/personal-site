@@ -15,9 +15,9 @@ About me or my work
 
 *JPMorgan's Python training guide for analysts and traders*, **efinancialcareers** ([link](https://news.efinancialcareers.com/us-en/3004043/jpmorgan-python-training-analysts-and-traders))
 
-*Beyond Spreadsheets*, **NYC Data Council 2020**, w/ Jeff Sternberg - Technical Director Google ([recording](https://youtu.be/PYTVU4A_3Kc))
+*Beyond Spreadsheets*, **NYC Data Council 2020**, w/ Jeff Sternberg ([@sternb0t](https://github.com/sternb0t)) - Technical Director Google ([recording](https://youtu.be/PYTVU4A_3Kc))
 
-*Production Notebooks*, **JupyterCon 2020**
+*Production Notebooks*, **JupyterCon 2020** ([link to presentation](https://tim.paine.nyc/talks/jupytercon.html#/))
 
 ---
 
