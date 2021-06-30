@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-# Links
+# Hello
+My name is Tim, I am currently head of software engineering at [IEX Cloud](https://github.com/iexcloud).
+
 
 [![](https://img.shields.io/badge/Website-red)](https://tim.paine.nyc/)
 [![](https://img.shields.io/badge/Teaching-green)](https://www.cs.columbia.edu/~paine/)
@@ -31,7 +33,7 @@ About me or my work
 | *JPMorgan's Python training guide for analysts and traders* | **efinancialcareers** | [link](https://news.efinancialcareers.com/us-en/3004043/jpmorgan-python-training-analysts-and-traders) | | 
 
 
-### Education
+# Education
 
 | | | | |
 |:--:|:--:|:--:|:--:|
@@ -39,7 +41,7 @@ About me or my work
 | B.S. | Computer Engineering | 2015 | *Columbia University* |
 | B.A. | Computer Science and Mathematics | 2014 | *Columbia University* |
 
-### Teaching
+# Teaching
 I have taught in the Computer Science department at Columbia University since 2015. Topics include introductory/intermediate core computer science fundamentals in C, C++, and Python, as well as topics courses in computer hardware fundamentals and open source development methodologies. Specific courses include:
 
 | | |
