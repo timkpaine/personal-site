@@ -17,7 +17,7 @@ My background is building high performance, full stack applications for front of
 | | | |
 |:--:|:--:|:--:|
 | <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/iex.png" alt="IEX"> | [IEX](https://iextrading.com) | Head of Software Engineeering - [IEX Cloud](https://iexcloud.io) |
-| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/jpmorgan.png" alt="J.P. Morgan"> | [J.P. Morgan](https://www.jpmorgan.com/global) | VP Software Engineer, Athena Research |
+| <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/jpmorgan.png" alt="J.P. Morgan"> | [J.P. Morgan](https://www.jpmorgan.com/global) | VP Software Engineer - Athena Research |
 | <img width="100" src="https://raw.githubusercontent.com/timkpaine/timkpaine/main/maystreet.png" alt="MayStreet"> | [MayStreet](https://maystreet.com) |  Software Engineer |
 
 
@@ -29,8 +29,8 @@ About me or my work
 |:--:|:--:|:--:|:--:|
 | *Production Notebooks* | **JupyterCon 2020**  | [link to presentation](https://tim.paine.nyc/talks/jupytercon.html#/) | |
 | *Beyond Spreadsheets* | **NYC Data Council 2020** | [recording](https://youtu.be/PYTVU4A_3Kc) | w/ Jeff Sternberg ([@sternb0t](https://github.com/sternb0t)) |
-|*JPMorgan's requirement for new staff: coding lessons* | **Financial Times 2018** | [link](https://www.ft.com/content/4c17d6ce-c8b2-11e8-ba8f-ee390057b8c9) | |
-| *JPMorgan's Python training guide for analysts and traders* | **efinancialcareers** | [link](https://news.efinancialcareers.com/us-en/3004043/jpmorgan-python-training-analysts-and-traders) | | 
+| *JPMorgan's requirement for new staff: coding lessons* | **Financial Times - 2018** | [link](https://www.ft.com/content/4c17d6ce-c8b2-11e8-ba8f-ee390057b8c9) | |
+| *JPMorgan's Python training guide for analysts and traders* | **efinancialcareers - 2020** | [link](https://news.efinancialcareers.com/us-en/3004043/jpmorgan-python-training-analysts-and-traders) | | 
 
 
 # Education
