@@ -37,9 +37,9 @@ About me or my work
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| M.S. | Computer Engineering | 2015 | *Columbia University* |
-| B.S. | Computer Engineering | 2015 | *Columbia University* |
-| B.A. | Computer Science and Mathematics | 2014 | *Columbia University* |
+| M.S. | Computer Engineering | 2015 | Columbia University |
+| B.S. | Computer Engineering | 2015 | Columbia University |
+| B.A. | Computer Science and Mathematics | 2014 | Columbia University |
 
 # Teaching
 I have taught in the Computer Science department at Columbia University since 2015. Topics include introductory/intermediate core computer science fundamentals in C, C++, and Python, as well as topics courses in computer hardware fundamentals and open source development methodologies. Specific courses include:
